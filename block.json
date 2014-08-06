@@ -1,0 +1,12 @@
+{
+  "name": "core-blocks",
+  "template": { },
+  "dependencies": {
+    "article-single": "0.1.0",
+    "hero-window": "0.1.0",
+    "product-simple": "0.1.0",
+    "footer-simple": "0.1.0",
+    "header-simple": "0.1.0",
+    "grid-section": "0.1.0"
+  }
+}
